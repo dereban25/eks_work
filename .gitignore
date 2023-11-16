@@ -1,0 +1,7 @@
+# Infra terragrunt and terraform
+.terraform/
+*.tfstate*
+*.tfstate.backup
+*.out
+.idea
+terraform_accessKeys.csv
